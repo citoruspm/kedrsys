@@ -100,6 +100,8 @@ pygments_style = 'sphinx'
 # If true, keep warnings as "system message" paragraphs in the built documents.
 #keep_warnings = False
 
+def setup(app):
+    app.add_stylesheet('my_theme.css')
 
 # -- Options for HTML output ----------------------------------------------
 
