@@ -1929,3 +1929,4 @@
 .. |image30| image:: https://github.com/citoruspm/kedrsys/blob/master/source/_static/scenarii_28.png?raw=true
 .. |image31| image:: https://github.com/citoruspm/kedrsys/blob/master/source/_static/scenarii_30.png?raw=true
 .. |image32| image:: https://github.com/citoruspm/kedrsys/blob/master/source/_static/scenarii_34.png?raw=true
+.. |image33| image:: https://github.com/citoruspm/kedrsys/blob/master/source/_static/scenarii_37.png?raw=true
