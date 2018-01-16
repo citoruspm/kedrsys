@@ -1522,7 +1522,7 @@
    территориальном объекте поступила в диспетчерский пункт по телефону
    или электронной почте).
 
-.. figure:: _static/karta_10.png
+.. figure:: _static/karta_11.png
            :scale: 100 %
            :align: center        
            
