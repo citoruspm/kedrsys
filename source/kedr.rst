@@ -1879,7 +1879,7 @@
            
            Рисунок 75 – Дизайн веб-интерфейса 2014 года
 
-.. figure:: _static/interfeis_1.png
+.. figure:: _static/interfeis_2.png
            :scale: 100 %
            :align: center        
            
