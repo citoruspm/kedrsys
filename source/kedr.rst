@@ -1763,7 +1763,7 @@
 Система «Кедр» на версиях платформы 2014 и 2017 года
 ====================================================
 
-Система «Кедр» была разработана на версиях платформы «CITORUS» 2014 и 2017 года.
+Система «Кедр» была разработана на версиях платформы «CITORUS» 2014 и 2017 года. Таблица сравнительных характеристик данных версий системы представлена в руководстве «Платформа автоматизации CITORUS», в разделе `Версии платформы 2014 и 2017 года`_.
 
 Интерфейс системы, разработанной на версии платформы 2014 года, представлен на рисунке 75. Интерфейс системы, разработанной на версии платформы 2017 года, представлен на рисунке 76.
 
@@ -1828,3 +1828,4 @@
 .. |image31| image:: https://github.com/citoruspm/kedrsys/blob/master/source/_static/scenarii_30.png?raw=true
 .. |image32| image:: https://github.com/citoruspm/kedrsys/blob/master/source/_static/scenarii_34.png?raw=true
 .. |image33| image:: https://github.com/citoruspm/kedrsys/blob/master/source/_static/scenarii_37.png?raw=true
+.. _Версии платформы 2014 и 2017 года: http://docs.citorus.ru/docs/citorus/ru/latest/versions.html
